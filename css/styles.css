@@ -41,7 +41,7 @@ h2 {
 		padding-top: 5%;
 	}
 
-	#section3 {
+	section:nth-child(3) {
 		width: calc(100% - 20px);
 	}
 
