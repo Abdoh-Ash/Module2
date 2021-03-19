@@ -31,7 +31,7 @@ h2 {
 	border-bottom: 1px solid black;
 	text-align: center;
 	background-color: rgba(255, 255, 255, 0.5);
-	font-size: 1.25vw;
+	font-size: 1.75vw;
 }
 
 /* Tablet */
@@ -50,7 +50,7 @@ h2 {
 	}
 
 	h2{
-		font-size: 2.5vw;
+		font-size: 3vw;
 	}
 }
 
@@ -66,6 +66,6 @@ h2 {
 	}
 
 	h2{
-		font-size: 5vw;
+		font-size: 7vw;
 	}
 }
